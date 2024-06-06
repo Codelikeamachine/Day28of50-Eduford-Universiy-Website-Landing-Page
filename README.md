@@ -4,7 +4,7 @@
 
 Here's your toolkit:
 
-Live Demo: 
+Live Demo: https://codelikeamachine.github.io/Day28of50-Eduford-Universiy-Website-Landing-Page/
 
 Github Repository: https://github.com/Codelikeamachine
 
